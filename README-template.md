@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/franklobsty25/franklobsty25.github.io)
+- Live Site URL: [Add live site URL here](franklobsty25.github.io)
 
 ## My process
 
@@ -59,16 +59,10 @@ To see how you can add code snippets, see below:
 </svg>
 ```
 ```css
-.title {
+main {
   box-shadow: 6px 6px hsl(0, 0%, 7%);
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ### Continued development
 
 Rounded corners for the svg image isn't done. Still researching for solution on way forward.

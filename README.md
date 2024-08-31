@@ -81,4 +81,5 @@ Rounded corners for the svg image isn't done. Still researching for solution on 
 ## Acknowledgments
 
 Codecademy
+
 mdn web docs

@@ -74,7 +74,7 @@ Rounded corners for the svg image isn't done. Still researching for solution on 
 
 ## Author
 
-- Website - [Frank Kodie](https://www.your-site.com)
+- Website - [Frank Lobsty](franklobsty25.github.io)
 - Frontend Mentor - [@franklobsty25](https://www.frontendmentor.io/profile/franklobsty25)
 - Twitter - [@kodieadu](https://www.twitter.com/kodieadu)
 
